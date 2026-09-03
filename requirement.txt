@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-groq
+langchain-community
+python-dotenv
+tavily-python
+langchain-experimental
+arxiv
+wikipedia
+langsmith
+streamlit
+langgraph-checkpoint-sqlite

@@ -1,0 +1,20 @@
+[project]
+name = "production-multi-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arxiv>=4.0.1",
+    "langchain>=1.3.18",
+    "langchain-community>=0.4.2",
+    "langchain-experimental>=0.4.2",
+    "langchain-groq>=1.1.3",
+    "langgraph>=1.2.11",
+    "langgraph-checkpoint-sqlite>=3.1.1",
+    "langsmith>=0.11.2",
+    "python-dotenv>=1.2.3",
+    "streamlit>=1.63.0",
+    "tavily-python>=0.8.0",
+    "wikipedia>=1.4.0",
+]
